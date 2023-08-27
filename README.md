@@ -14,6 +14,7 @@ Prerequisites
 1. Check Chrome version. eg. Chrome Version 116.0.5845.111 
 2. Download ChromeDriver supported version and place it in C:/Driver.
 3. Download Selenium WebDriver and place it in C:/Driver.
+4. NuGet package has been installed.
 
 Folder Structure
 -------------
