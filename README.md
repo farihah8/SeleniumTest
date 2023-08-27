@@ -24,8 +24,10 @@ The structures of the folder are as below:
    - Script contains $scriptPath which requires user to define path where script is located.
 2. newproject.ps1
    - This script will be called by run.ps1 when user choose to create new C# project and install the required dependencies for this project.
+   - Script contains $outputFilePath which requires user to define path where Project is located to ease update on Program.cs file.
 3. updatetest.ps1
    - This script will be called by run.ps1 when user choose to update existing project assuming all the dependencies have been installed.
+   - Script contains $outputFilePath which requires user to define path where Project is located to ease update on Program.cs file.
 4. test.cs
    - C# file which contains test fixtures. This file will replace Program.cs file.
 5. Project
