@@ -33,10 +33,10 @@ The structures of the folder are as below:
 5. Project
    - This folder will stores all Projects created.
    - This folder contains SeleniumTest.zip project.
+   - This folder also contains packages used in this project.
 6. Driver
    - contains the driver files used in this project.
-   - need to place it at C:/Driver.
-   - contains packages used in this project.
+   - the driver files inside this folder need to be placed at C:/Driver.
    
 Notes
 -----
